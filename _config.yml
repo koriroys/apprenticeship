@@ -9,8 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Apprenticeship
-tagline: 
+title : LLAB
+tagline: Kori's Journey Through Software Apprenticeship
 author :
   name : Kori Roys
   email : kori.roys@devmynd.com
