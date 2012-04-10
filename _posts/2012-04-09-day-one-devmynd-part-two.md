@@ -11,4 +11,4 @@ I trooped downtown to meet up with [Arvin Dang](http://twitter.com/arvindang) an
 
 I did a few more [Rubeque](http://rubeque.com/) problems. Nearly done with the 'Elementary' level problems.
 
-Brad (my new boss!) came over to Code Academy after calling it a day at *The Client* and hung out (hanged out?), then gave me a lift in Soupcan, his sweet ride. We picked up some supplies for the new office at <strike>Home Depot</strike> Lowes, then called it a night.
+Brad (my new boss!) came over to Code Academy after calling it a day at *The Client* and hung out (hanged out?), then gave me a lift in Soupcan, his sweet ride. We picked up some supplies for the new office at <strike>Home Depot</strike> Menards, then called it a night.
