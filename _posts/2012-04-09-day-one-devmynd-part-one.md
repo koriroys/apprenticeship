@@ -15,7 +15,7 @@ The title of this blog is a bit presumptive. Today I started as an intern at Dev
 
 Day one consisted of a standup at 8am at the DevMynd office, and me making Brad late for *his* standup at *The Client*. Peter doesn't work Mondays, and JC is currently on vaycay in Japan. Slackers.
 
-I started off going through the technical tweets I emailed to my sexy new [DevMynd email](mailto:kori.roys@devmynd.com). One of them led me to this: "[Rails Isn't for Beginners](http://rakeroutes.com/blog/rails-is-not-for-beginners/)." I subscribed, and the penultimate post was "[Solve Online Ruby Puzzles With Rubeque](http://rakeroutes.com/blog/solve-online-ruby-puzzles-with-rubeque/)." I ended up doing that for most of the morning. Which reminds me. Check out my [review of Rubeque](http://koriroys.github.com/learning/2012/04/10/rubeque-review/)! Some of the things I learned were:
+I started off going through the technical tweets I emailed to my sexy new [DevMynd email](mailto:kori.roys@devmynd.com). One of them led me to this: "[Rails Isn't for Beginners](http://rakeroutes.com/blog/rails-is-not-for-beginners/)." I subscribed, and the penultimate post was "[Solve Online Ruby Puzzles With Rubeque](http://rakeroutes.com/blog/solve-online-ruby-puzzles-with-rubeque/)." I ended up doing that for most of the morning. Which reminds me. Check out my [review of Rubeque](http://koriroys.com/apprenticeship/learning/2012/04/10/rubeque-review/)! Some of the things I learned were:
 
 + Inject can have a default value. Useful if none of the enum elements pass the conditional in the block:
 {% highlight ruby %}
