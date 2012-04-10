@@ -1,6 +1,6 @@
 ---
 layout: post
-category : lessons
+category : learning
 tags : [ruby, learning]
 ---
 {% include JB/setup %}

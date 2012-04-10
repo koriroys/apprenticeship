@@ -1,6 +1,6 @@
 ---
 layout: post
-category : lessons
+category : apprenticeship
 tags : [apprenticeship, devmynd]
 ---
 {% include JB/setup %}
