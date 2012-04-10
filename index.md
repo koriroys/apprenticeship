@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Learning Like a Boss
+title: Joy Honor Risk (JHR)
 tagline: Kori's Journey Through Software Apprenticeship
 ---
 {% include JB/setup %}
