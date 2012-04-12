@@ -5,7 +5,7 @@ tags : [apprenticeship, devmynd]
 ---
 {% include JB/setup %}
 
-The title of this blog is a bit presumptive. Today I started as an intern at DevMynd Software, which is set to last for two months. <strike>If</strike> When I successfully complete that, I will be upgraded to 'apprentice.'
+Today I started as an intern at DevMynd Software, which is set to last for two months. <strike>If</strike> When I successfully complete that, I will be upgraded to 'apprentice.'
 
 ## What is DevMynd?
 
