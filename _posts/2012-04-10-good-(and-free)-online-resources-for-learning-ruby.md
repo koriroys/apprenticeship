@@ -32,3 +32,8 @@ to speed with Ruby. Good luck!
 things.
 + [Ruby docs](http://www.ruby-doc.org/) will become your friend once you
   learn how to parse it, which takes time.
+
+## Feedback
+
+As is the custom, if you feel this list is incomplete, or I screwed up
+the order (which I probably did), feel free to let me know.
