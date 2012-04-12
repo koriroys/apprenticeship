@@ -14,7 +14,7 @@ figured out what I should do for the day. He said one of the reasons he
 decided to go with me is because "you don't completely suck at writing"
 (his words not mine). So it was decided I should set up a blog and push
 out some content, and make a list of good [free online resources for
-learning Ruby](#). 
+learning Ruby](http://koriroys.com/apprenticeship/learning/2012/04/10/good-%28and-free%29-online-resources-for-learning-ruby). 
 
 So the blog was created, a few posts were drafted up, and so more
 Rubeque problems were polished off. I paired with Bryon in the morning
